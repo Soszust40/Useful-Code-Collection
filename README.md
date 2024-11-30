@@ -8,8 +8,8 @@ A collection of small but handy code snippets for various programming tasks. You
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
 
 ## Projects
-- [Click Button on Website (JavaScript)](https://github.com/Oszust-Industries/Useful-Code-Collection/blob/main/README.md#click-button-on-website-javascript)
-- [Folder Tunnel (CMD)](https://github.com/Oszust-Industries/Useful-Code-Collection/blob/main/Folder%20Tunnel)
+- [Click Button on Website (JavaScript)](https://github.com/Disneyhockey40/Useful-Code-Collection#click-button-on-website-javascript)
+- [Folder Tunnel (CMD)](https://github.com/Disneyhockey40/Useful-Code-Collection#folder-tunnel-javascript)
 
 ## Project List
 
