@@ -1,0 +1,1 @@
+mklink /J "path1" "path2"
