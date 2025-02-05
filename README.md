@@ -4,12 +4,12 @@ A collection of small but handy code snippets for various programming tasks. You
 
 **Last Updated:** September 23, 2024
 
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)  
+**Developer:** [Simon Oszust](https://github.com/Soszust40)  
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
 
 ## Projects
-- [Click Button on Website (JavaScript)](https://github.com/Disneyhockey40/Useful-Code-Collection#click-button-on-website-javascript)
-- [Folder Tunnel (CMD)](https://github.com/Disneyhockey40/Useful-Code-Collection#folder-tunnel-javascript)
+- [Click Button on Website (JavaScript)](https://github.com/Soszust40/Useful-Code-Collection#click-button-on-website-javascript)
+- [Folder Tunnel (CMD)](https://github.com/Soszust40/Useful-Code-Collection#folder-tunnel-javascript)
 
 ## Project List
 
