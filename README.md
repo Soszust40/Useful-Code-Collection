@@ -26,5 +26,5 @@ A script that clicks a button on a website if it's clickable waits one second be
 
 ### Folder Tunnel (JavaScript)
 
-Run this in CMD to create a folder tunnel allowing applications to still location folders moved to different drives.
+Run this in CMD to create a folder tunnel allowing applications to use folders moved to different drives.
 <br />
