@@ -1,6 +1,6 @@
 # Useful Code Collection
 
-A collection of small but handy code snippets for various programming tasks. You can explore, use, and modify these code snippets. Contributions and suggestions are welcome!
+A collection of small but handy code snippets for various programming tasks. You can explore, use, and modify these as you wish. Contributions and suggestions are welcome!
 
 **Last Updated:** September 23, 2024
 
